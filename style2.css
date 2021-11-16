@@ -1,0 +1,36 @@
+h2{
+	color: whitesmoke;
+}
+.center
+{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}
+body
+{
+
+	background-size: cover;
+}
+h1{
+	color: whitesmoke;
+	text-align: center;
+	border: 5px	solid beige;
+	border: dashed;
+	 
+}
+form
+{
+	text-align: center;
+	color: black;
+}
+.aaa{
+  text-align: left;
+  bottom:0;
+  width:100%; }
+.aaa a{text-decoration:none; color:#fff;}
+
+img:hover {
+	transform: scale(1.1);
+}
