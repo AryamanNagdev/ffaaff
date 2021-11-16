@@ -1,0 +1,36 @@
+.aaa{
+  text-align: left;
+  bottom:0;
+  text-underline-position: auto;
+  width:100%;
+  color: whitesmoke;
+   }
+.aaa a{text-decoration:none; color:#fff;}
+h1{
+  color: whitesmoke;
+  text-align: center;
+  border: 5px solid beige;
+  border: dashed;
+   
+}
+p{
+  color: black;
+  font-style: italic;
+  font-family: "Georgia";
+  font size: 100px;
+  size: 100px;
+}
+.center
+{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 50%;
+}
+body
+{
+  background-size: cover;
+}
+img:hover {
+  transform: scale(1.1);
+}
